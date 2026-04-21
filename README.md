@@ -44,7 +44,7 @@ I'm an undergraduate at **Fudan University**, doing research at the **FDU NLP La
 </td>
 <td width="38%" align="center" valign="middle">
 
-<a href="https://huggingface.co/papers/2603.14473"><img src="assets/hf_paper_gold.svg" alt="#1 Paper of the Day on Hugging Face" width="250"/></a>
+<a href="https://huggingface.co/papers/2603.14473"><img src="assets/hf_paper_gold.svg" alt="#1 Paper of the Month on Hugging Face" width="250"/></a>
 
 </td>
 </tr>
