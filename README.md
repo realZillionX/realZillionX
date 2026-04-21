@@ -1,6 +1,6 @@
-<img align="left" src="assets/avatar.jpg" width="220" hspace="24" alt="Hongji Chen"/>
-
 # Hongji Chen
+
+<img align="left" src="assets/avatar.jpg" width="170" hspace="24" alt="Hongji Chen"/>
 
 **Multimodal Reasoning &nbsp;·&nbsp; Agentic RL**  
 *Undergraduate Researcher @ Fudan University*  
@@ -9,8 +9,6 @@
 <a href="https://www.fudan.edu.cn"><img src="https://img.shields.io/badge/Fudan_University-002F6C?style=for-the-badge" alt="Fudan"/></a> <a href="https://github.com/OpenMOSS"><img src="https://img.shields.io/badge/OpenMOSS-FF6F00?style=for-the-badge" alt="OpenMOSS"/></a> <a href="https://huggingface.co/papers/2603.14473"><img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge&labelColor=000000" alt="Hugging Face"/></a>
 
 <br clear="left"/>
-
----
 
 ## 🧭 &nbsp; About
 
