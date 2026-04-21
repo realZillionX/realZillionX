@@ -1,9 +1,8 @@
-<img align="left" src="assets/avatar.jpg" width="160" hspace="24" alt="Hongji Chen"/>
+<img align="left" src="assets/avatar.jpg" width="220" hspace="24" alt="Hongji Chen"/>
 
 # Hongji Chen
 
-### Multimodal Reasoning &nbsp;·&nbsp; Agentic RL
-
+**Multimodal Reasoning &nbsp;·&nbsp; Agentic RL**  
 *Undergraduate Researcher @ Fudan University*  
 <sub>FDU NLP Lab &nbsp;·&nbsp; OpenMOSS Team &nbsp;·&nbsp; advised by Prof. Xipeng Qiu</sub>
 
