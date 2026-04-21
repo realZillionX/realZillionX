@@ -1,6 +1,9 @@
-# Hongji Chen
+<img align="left" src="assets/avatar.jpg" width="200" hspace="24" alt="Hongji Chen"/>
 
-<img align="left" src="assets/avatar.jpg" width="170" hspace="24" alt="Hongji Chen"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg"/>
+  <img src="assets/name.svg" alt="Hongji Chen" width="300"/>
+</picture>
 
 **Multimodal Reasoning &nbsp;·&nbsp; Agentic RL**  
 *Undergraduate Researcher @ Fudan University*  
@@ -39,7 +42,7 @@ I'm an undergraduate at **Fudan University**, doing research at the **FDU NLP La
 
 **AI Can Learn Scientific Taste**  
 <sub><em>Can language models internalize the aesthetic judgments that scientists use to navigate open-ended research?</em></sub>  
-<sub><a href="https://arxiv.org/abs/2603.14473">arXiv</a> &nbsp;·&nbsp; <a href="https://huggingface.co/papers/2603.14473">Hugging Face</a> &nbsp;·&nbsp; <a href="https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste">Code</a></sub>
+<sub><a href="https://arxiv.org/abs/2603.14473">arXiv</a> &nbsp;·&nbsp; <a href="https://huggingface.co/papers/2603.14473">Hugging Face</a> &nbsp;·&nbsp; <a href="https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste">GitHub</a></sub>
 
 </td>
 <td width="38%" align="center" valign="middle">
