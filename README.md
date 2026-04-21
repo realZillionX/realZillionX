@@ -35,18 +35,16 @@ I'm an undergraduate at **Fudan University**, doing research at the **FDU NLP La
 
 <table>
 <tr>
-<td width="72%" valign="middle">
+<td width="62%" valign="middle">
 
 **AI Can Learn Scientific Taste**  
 <sub><em>Can language models internalize the aesthetic judgments that scientists use to navigate open-ended research?</em></sub>  
-<sub><a href="https://arxiv.org/abs/2603.14473">arXiv</a> &nbsp;·&nbsp; <a href="https://huggingface.co/papers/2603.14473">Hugging Face</a></sub>
+<sub><a href="https://arxiv.org/abs/2603.14473">arXiv</a> &nbsp;·&nbsp; <a href="https://huggingface.co/papers/2603.14473">Hugging Face</a> &nbsp;·&nbsp; <a href="https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste">Code</a></sub>
 
 </td>
-<td width="28%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-### 🏆 &nbsp; #1
-
-<sub>**Paper of the Month**<br/>*Hugging Face*</sub>
+<a href="https://huggingface.co/papers/2603.14473"><img src="assets/hf_paper_gold.svg" alt="#1 Paper of the Day on Hugging Face" width="250"/></a>
 
 </td>
 </tr>
@@ -55,9 +53,3 @@ I'm an undergraduate at **Fudan University**, doing research at the **FDU NLP La
 ## 🚧 &nbsp; In Progress
 
 > Two heavyweight **multimodal papers** currently in development. *More soon.*
-
----
-
-<div align="center">
-<sub><a href="https://github.com/realZillionX">GitHub</a> &nbsp;·&nbsp; <a href="https://huggingface.co/papers/2603.14473">Hugging Face</a></sub>
-</div>
