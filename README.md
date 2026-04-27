@@ -9,7 +9,7 @@
 *Undergraduate Researcher @ Fudan University*  
 <sub>FDU NLP Lab &nbsp;·&nbsp; OpenMOSS Team &nbsp;·&nbsp; advised by Prof. Xipeng Qiu</sub>
 
-<a href="https://www.fudan.edu.cn"><img src="https://img.shields.io/badge/Fudan_University-002F6C?style=for-the-badge" alt="Fudan"/></a> <a href="https://openmoss.github.io/"><img src="https://img.shields.io/badge/OpenMOSS-FF6F00?style=for-the-badge" alt="OpenMOSS Team"/></a> <a href="https://huggingface.co/realZillionX"><img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge&labelColor=000000" alt="Hugging Face"/></a>
+<a href="https://www.fudan.edu.cn"><img src="https://img.shields.io/badge/Fudan_University-002F6C?style=for-the-badge" alt="Fudan"/></a> <a href="https://openmoss.github.io/"><img src="https://img.shields.io/badge/OpenMOSS%20Team-FF6F00?style=for-the-badge" alt="OpenMOSS Team"/></a> <a href="https://huggingface.co/realZillionX"><img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge&labelColor=000000" alt="Hugging Face"/></a>
 
 <br clear="left"/>
 
